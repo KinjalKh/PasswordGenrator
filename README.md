@@ -1,4 +1,4 @@
-# Random Password Genrator
+# Password Genrator
 
 ![version](https://img.shields.io/github/license/KaushalBhatol/RandomPasswordGenrator)
 ![version](https://img.shields.io/badge/version-2.0-blue)
