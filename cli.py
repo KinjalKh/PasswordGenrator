@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # @purp: genrating random pass
-# @auth: Kaushal Chaudhry
+# @auth: Kinjal Khandhala
 #!/usr/bin/python3
 from logic import main
 
