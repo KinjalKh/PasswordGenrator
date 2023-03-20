@@ -32,17 +32,6 @@ sudo apt install python3-tk -y
 pip install tkinter
 ```
 
-### Downloading and Running Repository
-
-```bash
-git clone https://github.com/KaushalBhatol/RandomPasswordGenrator.git
-
-cd RandomPasswordGenrator-master 
-chmod u+x ./* 
-
-./main.py
-```
-
 ### Running Program on CLI
 
 ```bash
