@@ -56,13 +56,3 @@ Run Program:
 ```bash
 ./main.py
 ```
-
-## Screen Shots [GUI]
-
-### Startup screen
-
-![gui.startup](.readme_support/gui.startup.png)
-
-### Output Screen
-
-![python-sc](.readme_support/gui.main.png)
